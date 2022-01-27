@@ -1,6 +1,6 @@
 # paradox-crimelife
 Paradox Crimelife Rage:MP
-*** INSTALL ***
+
 browser:
 go to browser folder
 type npm install
