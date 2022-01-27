@@ -1,0 +1,56 @@
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\bin\x64\Release\PRDXC.deps.json
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\bin\x64\Release\PRDXC.dll
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\bin\x64\Release\ref\PRDXC.dll
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\bin\x64\Release\PRDXC.pdb
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\bin\x64\Release\AltV.Net.dll
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\bin\x64\Release\AltV.Net.Async.dll
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\bin\x64\Release\MySqlConnector.dll
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\obj\x64\Release\PRDXC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\obj\x64\Release\PRDXC.AssemblyInfoInputs.cache
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\obj\x64\Release\PRDXC.AssemblyInfo.cs
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\obj\x64\Release\PRDXC.csproj.CoreCompileInputs.cache
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\obj\x64\Release\PRDXC.csproj.CopyComplete
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\obj\x64\Release\PRDXC.dll
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\obj\x64\Release\ref\PRDXC.dll
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\obj\x64\Release\PRDXC.pdb
+C:\Users\timok\source\repos\PRDXC\Server\PRDXC\bin\x64\Release\PRDXC.deps.json
+C:\Users\timok\source\repos\PRDXC\Server\PRDXC\bin\x64\Release\PRDXC.dll
+C:\Users\timok\source\repos\PRDXC\Server\PRDXC\bin\x64\Release\PRDXC.pdb
+C:\Users\timok\source\repos\PRDXC\Server\PRDXC\bin\x64\Release\MySqlConnector.dll
+C:\Users\timok\source\repos\PRDXC\Server\PRDXC\bin\x64\Release\Bootstrapper.dll
+C:\Users\timok\source\repos\PRDXC\Server\PRDXC\bin\x64\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\timok\source\repos\PRDXC\Server\PRDXC\obj\x64\Release\PRDXC.csproj.AssemblyReference.cache
+C:\Users\timok\source\repos\PRDXC\Server\PRDXC\obj\x64\Release\PRDXC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timok\source\repos\PRDXC\Server\PRDXC\obj\x64\Release\PRDXC.AssemblyInfoInputs.cache
+C:\Users\timok\source\repos\PRDXC\Server\PRDXC\obj\x64\Release\PRDXC.AssemblyInfo.cs
+C:\Users\timok\source\repos\PRDXC\Server\PRDXC\obj\x64\Release\PRDXC.csproj.CoreCompileInputs.cache
+C:\Users\timok\source\repos\PRDXC\Server\PRDXC\obj\x64\Release\PRDXC.csproj.CopyComplete
+C:\Users\timok\source\repos\PRDXC\Server\PRDXC\obj\x64\Release\PRDXC.dll
+C:\Users\timok\source\repos\PRDXC\Server\PRDXC\obj\x64\Release\PRDXC.pdb
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server\PRDXC\bin\x64\Release\PRDXC.deps.json
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server\PRDXC\bin\x64\Release\PRDXC.dll
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server\PRDXC\bin\x64\Release\PRDXC.pdb
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server\PRDXC\bin\x64\Release\MySqlConnector.dll
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server\PRDXC\bin\x64\Release\Bootstrapper.dll
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server\PRDXC\bin\x64\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server\PRDXC\obj\x64\Release\PRDXC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server\PRDXC\obj\x64\Release\PRDXC.AssemblyInfoInputs.cache
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server\PRDXC\obj\x64\Release\PRDXC.AssemblyInfo.cs
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server\PRDXC\obj\x64\Release\PRDXC.csproj.CoreCompileInputs.cache
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server\PRDXC\obj\x64\Release\PRDXC.csproj.CopyComplete
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server\PRDXC\obj\x64\Release\PRDXC.dll
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server\PRDXC\obj\x64\Release\PRDXC.pdb
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server-Test\PRDXC\bin\x64\Release\PRDXC.deps.json
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server-Test\PRDXC\bin\x64\Release\PRDXC.dll
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server-Test\PRDXC\bin\x64\Release\PRDXC.pdb
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server-Test\PRDXC\bin\x64\Release\MySqlConnector.dll
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server-Test\PRDXC\bin\x64\Release\Bootstrapper.dll
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server-Test\PRDXC\bin\x64\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server-Test\PRDXC\obj\x64\Release\PRDXC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server-Test\PRDXC\obj\x64\Release\PRDXC.AssemblyInfoInputs.cache
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server-Test\PRDXC\obj\x64\Release\PRDXC.AssemblyInfo.cs
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server-Test\PRDXC\obj\x64\Release\PRDXC.csproj.CoreCompileInputs.cache
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server-Test\PRDXC\obj\x64\Release\PRDXC.csproj.CopyComplete
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server-Test\PRDXC\obj\x64\Release\PRDXC.dll
+C:\Users\xxx\Desktop\PRDXC - RAGE\source\Server-Test\PRDXC\obj\x64\Release\PRDXC.pdb

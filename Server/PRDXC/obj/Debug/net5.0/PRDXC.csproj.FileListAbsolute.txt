@@ -1,0 +1,5 @@
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\obj\Debug\net5.0\PRDXC.csproj.AssemblyReference.cache
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\obj\Debug\net5.0\PRDXC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\obj\Debug\net5.0\PRDXC.AssemblyInfoInputs.cache
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\obj\Debug\net5.0\PRDXC.AssemblyInfo.cs
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\obj\Debug\net5.0\PRDXC.csproj.CoreCompileInputs.cache

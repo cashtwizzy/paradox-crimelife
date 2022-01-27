@@ -1,0 +1,27 @@
+{
+  "name": "prdxc-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cashtwizzy/paradox-crimelife/Client.git"
+  },
+  "author": "Twizzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "ttps://github.com/cashtwizzy/paradox-crimelife/Client/issues"
+  },
+  "homepage": "ttps://github.com/cashtwizzy/paradox-crimelife/Client#readme",
+  "dependencies": {
+    "typescript": "^4.5.4"
+  },
+  "devDependencies": {
+    "@types/ragemp-c": "github:CocaColaBear/types-ragemp-c#v2.0",
+    "install": "^0.13.0",
+    "npm": "^8.3.1"
+  }
+}

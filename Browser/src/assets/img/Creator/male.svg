@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   enable-background="new 0 0 20 20"
+   height="48px"
+   viewBox="0 0 20 20"
+   width="48px"
+   fill="#FFFFFF"
+   version="1.1"
+   id="svg838"
+   sodipodi:docname="male.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs842">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1022"
+       x="-0.019723865"
+       y="-0.019723865"
+       width="1.0394477"
+       height="1.0394477">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.098619329"
+         id="feGaussianBlur1024" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview840"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="16.854167"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg838" />
+  <rect
+     fill="none"
+     height="20"
+     width="20"
+     id="rect834" />
+  <path
+     d="M16,4h-4.5v1.5h1.94l-2.76,2.76C9.99,7.78,9.15,7.5,8.25,7.5C5.9,7.5,4,9.4,4,11.75C4,14.1,5.9,16,8.25,16 s4.25-1.9,4.25-4.25c0-0.9-0.28-1.74-0.76-2.43l2.76-2.76V8.5H16V4z M8.25,14.5c-1.52,0-2.75-1.23-2.75-2.75S6.73,9,8.25,9 S11,10.23,11,11.75S9.77,14.5,8.25,14.5z"
+     id="path836"
+     style="fill:#00c9ff;filter:url(#filter1022);fill-opacity:1" />
+</svg>

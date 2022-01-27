@@ -1,0 +1,12 @@
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\bin\x64\Release\net5.0\PRDXC.deps.json
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\bin\x64\Release\net5.0\PRDXC.dll
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\bin\x64\Release\net5.0\ref\PRDXC.dll
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\bin\x64\Release\net5.0\PRDXC.pdb
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\obj\x64\Release\net5.0\PRDXC.csproj.AssemblyReference.cache
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\obj\x64\Release\net5.0\PRDXC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\obj\x64\Release\net5.0\PRDXC.AssemblyInfoInputs.cache
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\obj\x64\Release\net5.0\PRDXC.AssemblyInfo.cs
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\obj\x64\Release\net5.0\PRDXC.csproj.CoreCompileInputs.cache
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\obj\x64\Release\net5.0\PRDXC.dll
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\obj\x64\Release\net5.0\ref\PRDXC.dll
+C:\Users\xxx\Desktop\PRDXC\source\Server\PRDXC\obj\x64\Release\net5.0\PRDXC.pdb

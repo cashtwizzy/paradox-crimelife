@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="48px"
+   viewBox="0 0 24 24"
+   width="48px"
+   fill="#FFFFFF"
+   version="1.1"
+   id="svg7798"
+   sodipodi:docname="pass-active.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7802">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter8418"
+       x="-0.056571982"
+       y="-0.1037153"
+       width="1.113144"
+       height="1.2074306">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.5185765"
+         id="feGaussianBlur8420" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview7800"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="17.333333"
+     inkscape:cx="12.605769"
+     inkscape:cy="24.028846"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7798" />
+  <path
+     d="M0 0h24v24H0z"
+     fill="none"
+     id="path7794" />
+  <path
+     d="M12.65 10C11.83 7.67 9.61 6 7 6c-3.31 0-6 2.69-6 6s2.69 6 6 6c2.61 0 4.83-1.67 5.65-4H17v4h4v-4h2v-4H12.65zM7 14c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z"
+     id="path7796"
+     style="fill:#00f1ca;fill-opacity:1;opacity:1;filter:url(#filter8418)" />
+</svg>
