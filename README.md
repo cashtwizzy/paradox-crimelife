@@ -19,5 +19,3 @@ put it in serverfiles/dotnet/resources/prdxc
 
 finished
 run server
-have fun
-all of this was WIP and is not ready to release
