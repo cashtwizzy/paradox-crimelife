@@ -19,4 +19,4 @@ put it in serverfiles/dotnet/resources/prdxc
 
 finished
 run server
-https://streamable.com/8s3dse
+Preview: https://streamable.com/8s3dse
